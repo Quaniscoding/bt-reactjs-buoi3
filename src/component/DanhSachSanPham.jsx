@@ -3,7 +3,6 @@ import React, { Component } from "react";
 export default class DanhSachSanPham extends Component {
   render() {
     let { dataShoesProps, hanldeChiTiet } = this.props;
-    console.log(dataShoesProps);
     return (
       <div className="row">
         {dataShoesProps.map((shoes, index) => {

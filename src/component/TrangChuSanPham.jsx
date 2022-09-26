@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import GioHang from "./GioHang";
 import SanPham from "./SanPham";
 import shoesData from "./shoesData.json";
 import DanhSachSanPham from "./DanhSachSanPham";
